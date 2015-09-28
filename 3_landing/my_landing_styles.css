@@ -2,8 +2,20 @@
 * {
   box-sizing: border-box;
 
-  border: thin red solid;
+  /*border: thin red solid;*/
 }
 /* You can turn it off if you want. (delete or comment it out) */
 
 /* Write your rules below */
+
+.button{
+  border-radius: 10px;
+  background-color: lightblue;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  text-decoration:none;
+  box-shadow: 1px 1px 1px 0 #333;
+  display: block;
+  width: 100%
+}
