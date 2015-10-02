@@ -15,7 +15,7 @@
   text-align: center;
   padding: 5px;
   text-decoration:none;
-  box-shadow: 1px 1px 1px 0 #333;
+  box-shadow: 1px 1px 1px 0 gray;
   display: block;
   width: 100%
 }
